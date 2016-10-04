@@ -1,4 +1,4 @@
-#ANPK Computer Programming Club
+##ANPK Computer Programming Club<br>
 ##*IT@Conestoga*
 
 Small library web app that allows to loan/reserve books and them to cart, register new users, and add new books to the library.
