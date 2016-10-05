@@ -7,7 +7,7 @@ Built with
 * Java EE, Servlets, JSP
 * HTML/CSS.
 
-How to Run
+How to run
 ------------
  1. Download the project on your computer
  2. Start Apache Tomcat server
